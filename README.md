@@ -8,7 +8,7 @@ Amante del código limpio, los desafíos y las buenas birras 🍻
 ## 🌐 Redes
 
 [![GitHub](https://img.shields.io/badge/GitHub-KhrixTain-black?logo=github)](https://github.com/KhrixTain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-maccarino-983895293/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-maccarino/)
 
 ---
 
